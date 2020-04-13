@@ -13,6 +13,8 @@ public class DateDifference {
 		
 		
 		Date d=new Date();
+		
+		
 		System.out.print(d);
 		
 		Date d2=new Date();
